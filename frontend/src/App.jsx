@@ -25,7 +25,7 @@ import {
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 import { vscDarkPlus } from "react-syntax-highlighter/dist/esm/styles/prism";
 
-const API_URL = "http://127.0.0.1:5000";
+const API_URL = "https://textsql-d6io.onrender.com";
 const PAGE_SIZE = 10;
 
 
