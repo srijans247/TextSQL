@@ -1,1 +1,8 @@
+Flask
+Flask-Cors
+python-dotenv
+google-genai
+SQLAlchemy
+psycopg[binary]
+sqlglot
 gunicorn
